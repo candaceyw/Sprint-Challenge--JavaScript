@@ -38,8 +38,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What is closure?
 
-    closure gives us access to the out function's scope from inside. 
-    Functions are therefor exit only, you can not enter from outside of the function scope.
+    Closure gives us access to the out function's scope from inside. 
+    Functions are therefore exit only, you can not enter from outside of the function scope.
 
 4. Describe the four rules of the 'this' keyword.
 
